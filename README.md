@@ -43,12 +43,10 @@ The project uses three tables:
 ## Repository Structure
 ```text
 SQL-Sales-Analysis/
-├── README.md
-├── SQL/
-│   ├── 01_Create_Tables.sql
-│   └── 02_Sales_Analysis_Queries.sql
-└── Project_Documentation/
-    └── Project_Overview.md
+├── Create Table.sql
+├── Sales Analysis.sql
+├── Project Overview.md
+└── README.md
 ```
 
 ## How to Use
