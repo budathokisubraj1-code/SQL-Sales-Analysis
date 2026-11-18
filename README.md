@@ -52,9 +52,9 @@ SQL-Sales-Analysis/
 ## How to Use
 1. Open PostgreSQL using pgAdmin or another PostgreSQL client.
 2. Create or select a database for the project.
-3. Run `SQL/01_Create_Tables.sql` to create the tables.
+3. Run `Create_Tables.sql` to create the tables.
 4. Import or insert the corresponding data into the three tables.
-5. Run the queries in `SQL/02_Sales_Analysis_Queries.sql`.
+5. Run the queries in `Sales_Analysis_Queries.sql`.
 
 **Note:** The repository contains SQL scripts and project documentation. The source dataset is not included in this repository.
 
